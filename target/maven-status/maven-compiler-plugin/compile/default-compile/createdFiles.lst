@@ -1,0 +1,7 @@
+com/ms/springbootbatch/step/Reader.class
+com/ms/springbootbatch/SpringBatchApplication.class
+com/ms/springbootbatch/config/BatchConfig.class
+com/ms/springbootbatch/listener/JobCompletionListener.class
+com/ms/springbootbatch/controller/JobInvokerController.class
+com/ms/springbootbatch/step/Writer.class
+com/ms/springbootbatch/step/Processor.class
